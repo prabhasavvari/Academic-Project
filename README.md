@@ -1,2 +1,2 @@
-# Tourist-Recommendation-System-Android-Application
+# Academic-Project
 Android application
